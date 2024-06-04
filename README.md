@@ -70,4 +70,4 @@ This project implements a real-time Sign Language Recognition (SLR) system that 
 * The model accuracy can be further improved by using more sophisticated machine learning models or techniques.
 * Consider exploring additional features like sentence recognition or sign disambiguation to enhance the system's capabilities.
 
-This README file provides a detailed overview of the project, its functionalities, and execution instructions. Feel free to adjust the content to match your specific implementation details and preferences!
+
